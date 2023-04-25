@@ -24,6 +24,6 @@
 <br>
 <div align='center'>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjoo0311&theme=onedark&show_icons=true)
+![eunjoo0311's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjoo0311&theme=onedark&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjoo0311&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjoo0311&theme=dracula&layout=compact&langs_count=10"/></a>
