@@ -2,7 +2,7 @@
 
 <div align='center'>
  <a href="https://great-eunjoo.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <a href="https://carnelian-mask-e68.notion.site/8f78c485222149cbae5cfe5c7b192d8d"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<!--   <a href="https://carnelian-mask-e68.notion.site/8f78c485222149cbae5cfe5c7b192d8d"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> -->
   
 </div>
 <div align='center'>
