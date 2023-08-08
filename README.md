@@ -26,4 +26,4 @@
 
 <!-- [![eunjoo0311's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjoo0311&theme=dark&show_icons=true)]() -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjoo0311&theme=dark&&layout=compact&langs_count=10"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjoo0311&theme=dracula&&layout=compact&langs_count=10"/></a>
